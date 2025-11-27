@@ -3,24 +3,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">
-  <span class="bold">Welcome aboard! Explore our realm</span>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>
-</h1>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;"/>
-  </a>
-  <a href="https://www.instagram.com/muschifresser/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-AA336A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/tekadesukant">
-    <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
-
----
+<br>
+<br>
 
 # FastAPI Docker User API
 
